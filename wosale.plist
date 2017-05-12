@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.7.131.67:8063//wosale-app-server/setup/wosale(8063).ipa</string>
+					<string>https://github.com/henlisishi/plist/blob/master/Wosale.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.asiainfo.hlj.wosale</string>
+				<string>com.asiainfo.sx.wosale</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>极简受理</string>
+				<string>掌沃行销</string>
 				<key>subitle</key>
 				<string>false</string>
 			</dict>
